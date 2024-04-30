@@ -29,9 +29,9 @@
 
 ### :man_technologist: About Me : 👋 Hello, I'm Arzav Jain, a Software Engineer based in Bangalore.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-Currently, I'm thriving as a Software Engineer at Qnu Labs, where I contribute as a frontend developer. My expertise lies in crafting robust and dynamic web applications using HTML, CSS, JavaScript, React, Node.js, MongoDB, and Express.js. I take pride in my ability to tackle complex challenges and deliver elegant solutions. 💻
+Currently, I'm thriving as a Software Engineer at Qnu Labs, where I contribute as a frontend developer. My expertise lies in crafting robust and dynamic web applications using HTML, CSS, JavaScript, React, Node.js, MongoDB, and Express.js. 💻
 
-I'm deeply passionate about problem-solving and enjoy diving into real-world issues to find innovative solutions. Whether it's debugging code or architecting scalable applications, I'm always up for the challenge. 🔍
+Whether it's debugging code or architecting scalable applications, I'm always up for the challenge. 🔍
 
 Let's connect and explore opportunities to collaborate and innovate together! 🚀
 
